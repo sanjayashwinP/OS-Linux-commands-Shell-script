@@ -173,6 +173,7 @@ egrep -w '(H|h)ello' newfile
 
 egrep -w '(H|h)ell[a-z]' newfile 
 ## OUTPUT
+![304113192-a2eb2603-767e-486a-bb38-c9e1f53f51a3](https://github.com/sanjayashwinP/OS-Linux-commands-Shell-script/assets/147473265/b756b5de-206c-4abc-b507-6304a1c635e0)
 
 
 
