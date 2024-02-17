@@ -44,19 +44,28 @@ cat < file1
 ## OUTPUT
 
 chanchal singhvi
+
 c.k. shukla
+
 s.n. dasgupta
+
 sumit chakrobarty
+
 ^d
 
 cat < file2
 ## OUTPUT
 
 anil aggarwal
+
 barun sengupta
+
 c.k. shukla
+
 lalit chowdury
+
 s.n. dasgupta
+
 ^d
 # Comparing Files
 cmp file1 file2
